@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-family: system-ui;
+    background: #222;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+}
+
+.app-card{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+
+}
